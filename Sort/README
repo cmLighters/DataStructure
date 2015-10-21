@@ -1,0 +1,13 @@
+Sort:
+	Bubble
+	Select:
+		DirectSelect
+		HeapSort (最大堆，将最大值从arr[0]放到arr[currentSize-1]处，再调整arr[0 ~ currentSize-2])
+		ChampionshipSort(暂不实现)
+	Insert:
+		DirectInsert
+		BinaryInsert
+		ShellSort
+	QuickSort
+	MergeSort
+	
